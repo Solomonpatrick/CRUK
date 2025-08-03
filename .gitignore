@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Test outputs
+/test-results/
+/playwright-report/
+/reports/
+
+# Screenshots and videos from failed tests
+/test-results/
+/screenshots/
+/videos/
+
+# Test data outputs
+results.xml
+test-results.json
+
+# IDE files
+.vscode/
