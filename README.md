@@ -11,7 +11,7 @@ These automated tests check that:
 - ✅ Transaction references match between the system and confirmation page
 - ✅ The donation form works in different web browsers
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running the tests, make sure you have:
 
